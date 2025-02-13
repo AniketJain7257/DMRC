@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-// Check if the user is logged in
+// Check if the user is logged in  .
 if (!isset($_SESSION['mcn'])) {
     header("Location: login.php?x=4");
     exit;
