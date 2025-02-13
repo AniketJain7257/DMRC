@@ -61,6 +61,4 @@ Feel free to fork this repository and contribute by submitting a pull request.
 ## License
 This project is licensed under the MIT License.
 
-## Credits
-Designed and developed by [NASA](https://nasa.com) (as per footer in the HTML).
 
